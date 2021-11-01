@@ -1,0 +1,225 @@
+{
+   "checksum": "d1120af48b99bdd55128eb880505b75e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13254538943458625",
+            "guid": "3cfef0a6-373d-4374-930c-e707e4462d3a",
+            "id": "5",
+            "name": "코스콤_WebMail",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://webmail.koscom.co.kr/ekp/login.do?cmd=goLogin"
+         }, {
+            "date_added": "13254985978135138",
+            "guid": "bad7141a-eaf1-4d1f-af61-da248eb82f93",
+            "id": "7",
+            "name": "Code Samples and PowerCLI Example Scripts | VMware - VMware {code}",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://code.vmware.com/samples"
+         }, {
+            "date_added": "13255774313758262",
+            "guid": "b49522c1-718b-4957-a18d-ad1fe5e6b19a",
+            "id": "9",
+            "name": "ESXi 스토리지 고려사항 | SDDC.098.CO.KR",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://sddc.098.co.kr/books/performance-best-practices-for-vmware-vsphere-67/page/esxi-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EA%B3%A0%EB%A0%A4%EC%82%AC%ED%95%AD"
+         }, {
+            "date_added": "13256092551548881",
+            "guid": "82049960-1aa0-4322-9ba1-45407a9194b8",
+            "id": "11",
+            "name": "인프런 - 프로가 되는 온라인 클래스",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.inflearn.com/"
+         }, {
+            "date_added": "13262249962335554",
+            "guid": "b1c7624e-2ec0-4674-b351-6a8913e2e656",
+            "id": "13",
+            "name": "프로비저닝 자동화를 위한 Ansible AWX, 설치부터 엔터프라이즈 환경 적용까지 - 1 - LINE ENGINEERING",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://engineering.linecorp.com/ko/blog/ansible-awx-for-provisioning-1/"
+         }, {
+            "date_added": "13262863268936632",
+            "guid": "ad7017f2-9e5d-4c7a-b33a-e7485813ffe6",
+            "id": "15",
+            "name": "Ansible Documentation",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://docs.ansible.com/ansible-tower/"
+         }, {
+            "date_added": "13263024978947879",
+            "guid": "4a9b47de-cb57-4047-bef5-0df6de3a259b",
+            "id": "17",
+            "name": "Oracle Cloud Infrastructure",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://console.ap-seoul-1.oraclecloud.com/resourcemanager/jobs"
+         }, {
+            "date_added": "13263281165126785",
+            "guid": "2f612b2c-0399-4945-a854-72faea650c7c",
+            "id": "19",
+            "name": "Cloud Console - 웹 UI 관리  |  Google Cloud",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://cloud.google.com/cloud-console/?hl=ko"
+         }, {
+            "date_added": "13263899468157380",
+            "guid": "3d74c818-1d08-4ad1-9122-02020bb9a0d9",
+            "id": "21",
+            "name": "Katacoda - Interactive Learning Platform for Software Engineers",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.katacoda.com/"
+         }, {
+            "date_added": "13264162291494244",
+            "guid": "81e1900d-6e1a-4257-a4d4-58ea1ccd4bd3",
+            "id": "23",
+            "name": "How to get information from a running virtual machine — Ansible Documentation",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://docs.ansible.com/ansible/devel/scenario_guides/vmware_rest_scenarios/vm_tool_information.html"
+         }, {
+            "date_added": "13269933102418294",
+            "guid": "ace3a525-1a04-481e-b217-8976cc0372a6",
+            "id": "25",
+            "name": "HowTo Configure SR-IOV for Connect-IB/ConnectX-4 with KVM (InfiniBand)",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://community.mellanox.com/s/article/howto-configure-sr-iov-for-connect-ib-connectx-4-with-kvm--infiniband-x"
+         }, {
+            "date_added": "13270786095104508",
+            "guid": "ba53b292-caab-4960-9d3b-7a3861c05999",
+            "id": "27",
+            "name": "Google",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "date_added": "13273407683988582",
+            "guid": "fc77074a-8ae8-4f59-b7e2-b94d116b3e1f",
+            "id": "29",
+            "name": "4장. 새로운 기능 Red Hat Enterprise Linux 8 | Red Hat Customer Portal",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://access.redhat.com/documentation/ko-kr/red_hat_enterprise_linux/8/html/8.0_release_notes/new-features"
+         }, {
+            "date_added": "13275708995195258",
+            "guid": "89e5b206-7d6c-4b94-ab60-75e55775c9e2",
+            "id": "31",
+            "name": "코스콤 사이버연수원",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://koscom.hunet.co.kr/Lecture/Detail?processCd=HLSP51921&cpCd=hunet&processYear=2021&processTerm=8853"
+         }, {
+            "date_added": "13277283854622188",
+            "guid": "e89cc0a1-d348-4094-9122-a5d6f8ffe675",
+            "id": "33",
+            "name": "베네카페",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://cert.benecafe.co.kr/member/login?itrlTpCd=60&cmpyNo=E37"
+         }, {
+            "date_added": "13278053056287246",
+            "guid": "0749db91-c229-4287-b6c4-7834878e0981",
+            "id": "35",
+            "name": "청약홈 | APT분양정보",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancListView.do"
+         }, {
+            "date_added": "13278994944090188",
+            "guid": "db3a6cf6-a41b-47ee-9e71-126789536710",
+            "id": "37",
+            "name": "List of DCLI Commands - Data Center CLI Reference - VMware {code}",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://code.vmware.com/docs/4676/data-center-cli-reference/doc/intro.html"
+         }, {
+            "date_added": "13279599207373097",
+            "guid": "67d254a7-c5d7-4616-b93e-90bd25c97865",
+            "id": "39",
+            "name": "Ansible for InfoScale",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://sort.veritas.com/utility/ansible"
+         }, {
+            "date_added": "13279947855400869",
+            "guid": "5b821f7b-16d6-472d-9a27-cf2f469d9171",
+            "id": "40",
+            "name": "[번역] 쿠버네티스 네트워킹 이해하기#3: Ingress | 커피고래의 노트",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/"
+         }, {
+            "date_added": "13280215455441675",
+            "guid": "354160b7-4c0e-4ad0-bffa-cec5abcf64b8",
+            "id": "42",
+            "name": "우분투(Ubuntu) 환경에 패키지(Package)로 젠킨스(Jenkins) 설치하기 | LindaRex",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://lindarex.github.io/jenkins/ubuntu-jenkins-installation/"
+         }, {
+            "date_added": "13280217636480455",
+            "guid": "5910b2a0-057b-41ac-b2c1-925365fc3d92",
+            "id": "43",
+            "name": "북마크 - vscode.dev [GitHub] - Visual Studio Code - GitHub",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://vscode.dev/github/WanSoo-Lee/vscode.dev"
+         } ],
+         "date_added": "13254536816142567",
+         "date_modified": "13280217636480455",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "즐겨찾기 모음",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13254536816142573",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "다른 즐겨찾기",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13254536816142574",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "모바일 즐겨찾기",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
